@@ -1,2 +1,2 @@
-# D.C.-Hurt-s-C-Essentials
+# D.C.Hurts-C-Essentials
 Substitute Library Collection for Standard C Libraries 
